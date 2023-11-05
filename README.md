@@ -9,6 +9,7 @@ The aim of this project is to build robust image classification models that can 
 ## Dataset
 
 Our project relies on a comprehensive dataset comprising a wide range of ISL signs captured as images. This dataset serves as the foundation for training, testing, and validating our classification models. 
+
 Link: https://www.kaggle.com/datasets/atharvadumbre/indian-sign-language-islrtc-referred
 
 ## Contributors
